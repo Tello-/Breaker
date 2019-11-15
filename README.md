@@ -1,5 +1,9 @@
 # Breaker
 
-While I am still learning the basics of linking, the file count may be a little cumbersome.
+Clone of Breakout using Box2D and SFML
+Build and Run
 
-Any tips on good git file management practices (or file management in general) are welcomed. :)
+Current Controls:
+
+N - nudge ball into motion
+Left/Right to move paddle
